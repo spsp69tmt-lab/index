@@ -1,0 +1,13 @@
+/* navを横並び */
+.main_menu li{
+	display: inline-block;
+}
+
+/* navの装飾をリセット */
+.main_menu{
+	list-style-type: none;
+}
+
+.main_menu li a{
+	text-decoration: none;
+}
