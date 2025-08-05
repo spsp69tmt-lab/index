@@ -19,7 +19,7 @@ header nav ul.main_menu li a{
 /* main要素を中央寄せ */
 main{
 	text-align: center;
-	width: 60%;
+	width: 500px;
 	border: 1px solid #aaa;
 }
 
