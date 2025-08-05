@@ -12,10 +12,6 @@ header nav ul.main_menu{
 	margin: 0;
 }
 
-header nav ul.main_menu li{
-	margin-left: 50px;
-}
-
 header nav ul.main_menu li a{
 	text-decoration: none;
 }
@@ -23,6 +19,8 @@ header nav ul.main_menu li a{
 /* main要素を中央寄せ */
 main{
 	text-align: center;
+	width: 60%;
+	border: 1px solid #aaa;
 }
 
 /* Worksの詳細 */
