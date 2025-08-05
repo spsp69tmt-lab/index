@@ -1,24 +1,27 @@
 /* navを右寄せ */
-nav{
+header{
 	text-align: right;
 }
 
 /* navを横並び */
-.main_menu li{
-	display: inline-block;
+header nav ul.main_menu{
+	display: flex;
+	justify-content: flex-end;
+	list-style: none;
+	padding: 0;
+	margin: 0;
 }
 
-/* navの装飾をリセット */
-.main_menu{
-	list-style-type: none;
+header nav ul.main_menu li{
+	margin-left: 20px;
 }
 
-.main_menu li a{
+header nav ul.main_menu li a{
 	text-decoration: none;
 }
 
 /* main要素を中央寄せ */
-section{
+main{
 	text-align: center;
 }
 
