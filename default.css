@@ -1,6 +1,6 @@
 /* navを右寄せ */
 #header.nav{
-	margin:0 auto;
+	margin:0 0 0 auto;
 }
 
 /* navを横並び */
