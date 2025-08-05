@@ -1,6 +1,6 @@
 /* navを右寄せ */
 #header.nav{
-	margin:0 0 0 auto;
+	text-align: right;
 }
 
 /* navを横並び */
@@ -19,7 +19,7 @@
 
 /* main要素を中央寄せ */
 #section{
-	margin: 0 auto;
+	text-align: center;
 }
 
 /* Worksの詳細 */
