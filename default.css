@@ -1,5 +1,5 @@
 /* navを右寄せ */
-#nav{
+nav{
 	text-align: right;
 }
 
@@ -18,7 +18,7 @@
 }
 
 /* main要素を中央寄せ */
-#section{
+section{
 	text-align: center;
 }
 
